@@ -1,0 +1,15 @@
+{
+    "appearance_mode": "Dark",
+    "color_theme": "dark-blue",
+    "alert_thresholds": {
+        "seismic_mag": 6.0,
+        "seismic_depth": 50.0,
+        "kp_index": 5,
+        "cme_speed": 700,
+        "neo_distance_ld": 5.0
+    },
+    "map_overlays": {
+        "risk_zones": true,
+        "seismic_radii": true
+    }
+}

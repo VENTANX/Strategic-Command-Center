@@ -7,8 +7,6 @@
 
 This project is an advanced simulation of a **Strategic Command Center** designed for real-time global threat surveillance and analysis. It demonstrates the power of Artificial Intelligence applied to crisis management, integrating real-time data feeds and predictive models.
 
-**Developed under the supervision of Mr. EL MOUDEN ABDELAZIZ.**
-
 ---
 
 ## 🚀 Key Features
